@@ -1,11 +1,11 @@
-<h1 align='center'>💳 CC GEN</h1>
+<h1 align='center'>💳 CC Ttca Reborn</h1>
 
-<b>💞 Random Credit Card Generator Using Bin it will generate multiple Credit Cards Based On Bin | CVC | Date </b>
+<b>💞Generator Kartu Kredit Acak Menggunakan Bin itu akan menghasilkan beberapa Kartu Kredit Berdasarkan Bin | CVC | Tanggal</b>
 
 ***
 
-🍃 Demo For You - [Open Here](https://ytmods.ga/CC_Gen/)
+🍃 Demo For You - [Open Here](https://toolsttcacyve.000webhostapp.com/cc%20gerator/index.html)
 
 ---
 
-<h4 align='center'> © 2021 Saksham Shekher
+<h4 align='center'> © 2021 Paman Doblank
