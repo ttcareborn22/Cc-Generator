@@ -1,10 +1,10 @@
-<h1 align='center'>📸 Spy Camera Webs Ttca Reborn</h1>
+<h1 align='center'>💳 CC Ttca Reborn</h1>
 
-<b>❌ kamera yang digunakan untuk mengintai atau memata-matai orang tanpa sepengetahuan mereka</b>
+<b>💞Generator Kartu Kredit Acak Menggunakan Bin itu akan menghasilkan beberapa Kartu Kredit Berdasarkan Bin | CVC | Tanggal</b>
 
 ***
 
-🍃 Demo For You - [Open Here](https://toolsttcacyve.000webhostapp.com/spycam.php)
+🍃 Demo For You - [Open Here](https://toolsttcacyve.000webhostapp.com/cc%20gerator/index.html)
 
 ---
 
